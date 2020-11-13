@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="entre_com_o_nome">Entre com o nome</string>
+    <string name="Btnsalvar">Salvar</string>
+    <string name="importar_contato">importar Contato</string>
+    <string name="capturar">Capturar</string>
+</resources>
